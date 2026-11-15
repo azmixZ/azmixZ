@@ -12,9 +12,16 @@ that solve real problems at my college, and I take part in hackathons.
 - **[Schedule & Replacement Bot](https://github.com/azmixZ/schedule-replacement-bot)**: two Telegram bots, for students and for teachers.
   They read the college timetable from Excel, merge in the daily replacements from Word and send morning broadcasts.
   Used at my college.
-- **Apex Protocol / Support Copilot** (Decentrathon 6.0, solo): fully local support-ticket triage for an online game.
+- **[Support Copilot](https://github.com/azmixZ/support-copilot)** (Decentrathon 6.0, solo): fully local support-ticket triage for an online game.
   It detects the language (RU/KZ/UZ/EN, including transliteration), category and priority, filters spam and duplicates, and drafts a reply
   that cites the exact rule. p95 latency 7 ms on CPU, no external APIs.
+
+#### Hackathons
+
+**Decentrathon 6.0** (30–31 October 2026), Support Copilot by Grand Mobile track, solo.
+[Verify certificate](https://edu.astanahub.com/hackathons/82b11400-bee4-4d30-9223-5515527d365b/tracks/172ff1a0-8e83-4daa-b5bf-fe079107f707/certificate/HCK-2026-RY9HCSQ5)
+
+<a href="https://edu.astanahub.com/hackathons/82b11400-bee4-4d30-9223-5515527d365b/tracks/172ff1a0-8e83-4daa-b5bf-fe079107f707/certificate/HCK-2026-RY9HCSQ5"><img src="assets/decentrathon-certificate.jpg" alt="Decentrathon 6.0 participant certificate" width="480"></a>
 
 #### In development
 
