@@ -42,3 +42,5 @@ AI:         AI-assisted development (Claude Code)
 #### Contact
 
 Telegram: [@sssooonnneeeL](https://t.me/sssooonnneeeL) · Email: [azmixz@proton.me](mailto:azmixz@proton.me)
+
+Resume (PDF): [English](resume/Artur-Timoshenko-Resume-EN.pdf) · [Русский](resume/Artur-Timoshenko-Resume-RU.pdf)
