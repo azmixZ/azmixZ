@@ -3,7 +3,7 @@
 College student from Kostanay, Kazakhstan. I build backend services, Telegram bots and small web tools
 that solve real problems at my college, and I take part in hackathons.
 
-**Now:** competing in Decentrathon 6.0.
+**Now:** building Low Orbit God and looking for an internship in Python backend.
 
 #### Projects
 
