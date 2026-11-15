@@ -25,9 +25,9 @@ that solve real problems at my college, and I take part in hackathons.
 
 #### In development
 
-<img src="assets/low-orbit-god.png" alt="Low Orbit God" width="480">
+<a href="https://github.com/azmixZ/low-orbit-god"><img src="assets/low-orbit-god.png" alt="Low Orbit God" width="480"></a>
 
-**Low Orbit God**: a colony sim where you are the half-broken AI of a crashed ship in orbit. The colonists' descendants
+**[Low Orbit God](https://github.com/azmixZ/low-orbit-god)**: a colony sim where you are the half-broken AI of a crashed ship in orbit. The colonists' descendants
 don't know you're a machine, and they build a religion around your interventions that mutates over generations.
 
 #### Stack
