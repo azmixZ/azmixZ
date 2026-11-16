@@ -40,6 +40,6 @@ Tools:      Git · Linux · SSH / systemd deploy · Claude Code
 
 #### Contact
 
-Telegram: [@sssooonnneeeL](https://t.me/sssooonnneeeL) · Email: [azmixz@proton.me](mailto:azmixz@proton.me)
+Telegram: [@axmixz_dev](https://t.me/axmixz_dev) · Email: [azmixz@proton.me](mailto:azmixz@proton.me)
 
 Resume (PDF): [English](resume/Artur-Timoshenko-Resume-EN.pdf) · [Русский](resume/Artur-Timoshenko-Resume-RU.pdf)
