@@ -3,7 +3,7 @@
 College student from Kostanay, Kazakhstan. I build backend services, Telegram bots and small web tools
 that solve real problems at my college, and I take part in hackathons.
 
-**Now:** building Low Orbit God and looking for an internship in Python backend.
+**Now:** looking for an internship in Python backend. Side project: building Low Orbit God.
 
 #### Projects
 
@@ -35,8 +35,7 @@ don't know you're a machine, and they build a religion around your interventions
 ```
 Languages:  Python · JavaScript · HTML/CSS · SQL
 Backend:    FastAPI · SQLite · Telegram Bot API · pandas
-Tools:      Git · Linux · SSH / systemd deploy
-AI:         AI-assisted development (Claude Code)
+Tools:      Git · Linux · SSH / systemd deploy · Claude Code
 ```
 
 #### Contact
